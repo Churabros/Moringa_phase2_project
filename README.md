@@ -122,7 +122,7 @@ The Specific rows used in the data set are
 
 
 ### Tableau Dashboard Link - https://public.tableau.com/views/phase_2_project_Dashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
+### Non-Technical Presentation  - https://docs.google.com/presentation/d/1zayr-fxNpV8gbOKBN51aOV0fWpa1DyY3qCiDV84u6vk/edit?usp=sharing
 
 
 
